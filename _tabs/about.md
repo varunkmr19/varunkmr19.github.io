@@ -16,43 +16,31 @@ order: 4
 - 🥅 2021 Goals: Get a Job as a Back-End Developer.
 - ⚡ Fun fact: I love to workout and read.
 
-## Connect with me:
+### Connect with me:
 
-[<img align="left" alt="varunkumar.tech" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="TechLover | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="varunkmr19 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="varunkmr19 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="LonelyIsland | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[![Youtube](https://img.shields.io/static/v1?message=Youtube&logo=youtube&labelColor=black&color=black&logoColor=f34f29&label=%20)][youtube]
+[![Twitter](https://img.shields.io/static/v1?message=Twitter&logo=twitter&labelColor=black&color=black&logoColor=blue&label=%20)][twitter]
+[![LinkedIn](https://img.shields.io/static/v1?message=Linkedin&logo=linkedin&labelColor=black&color=black&logoColor=blue&label=%20)][linkedin]
 
 <br />
 
 ### Languages
 
-[![Python](https://img.shields.io/badge/-Python-000?&logo=python)](https://github.com/adamalston?tab=repositories&q=&type=&language=python)
+[![Python](https://img.shields.io/badge/-Python-000?&logo=python)](https://github.com/varunkmr19?tab=repositories&q=&type=&language=python)
 [![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)](https://github.com/varunkmr19?tab=repositories&q=&type=&language=cpp)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)](https://github.com/varunkmr19?tab=repositories&q=&type=&language=javascript)
 
-### Technologies
-
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=FF9900)
-![CI/CD](https://img.shields.io/badge/-CI%2FCD-000?&logo=CircleCI&logoColor=888)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 
 
-
-## Languages and Tools:
-
-<code><img align="left" alt="HTML5" height="50px" width="50px" src="http://varunkumar.tech/assets/img/logo/html.svg" /></code>
-<code><img align="left" alt="CSS3" height="50px" width="50px" src="http://varunkumar.tech/assets/img/logo/css.svg" /></code>
-<code><img align="left" alt="BootStrap" height="50px" width="50px" src="http://varunkumar.tech/assets/img/logo/bootstrap.svg" /></code>
-<code><img align="left" alt="Python" height="50px" width="50px" src="http://varunkumar.tech/assets/img/logo/python.svg" /></code>
-<code><img align="left" alt="Cpp" height="50px" width="50px" src="http://varunkumar.tech/assets/img/logo/cpp.svg" /></code>
-<code><img align="left" height="50px" width="50px" alt="Django" src="http://varunkumar.tech/assets/img/logo/django.svg" /></code>
-<code><img align="left" height="50px" width="50px" alt="PostgreSQL" src="http://varunkumar.tech/assets/img/logo/postgresql.svg" /></code>
-<code><img align="left" alt="Git" height="50px" src="http://varunkumar.tech/assets/img/logo/git.svg" /></code>
-<code><img align="left" alt="Docker" height="50px" width="50px" src="http://varunkumar.tech/assets/img/logo/docker.svg" /></code>
-<code><img align="left" alt="Visual Studio Code" height="50px" width="50px" src="http://varunkumar.tech/assets/img/logo/vscode.svg" /></code>
-<code><img align="left" alt="Ubuntu" height="50px" width="50px" src="http://varunkumar.tech/assets/img/logo/ubuntu.svg" /></code>
+### Technologies:
+[![HTML](https://img.shields.io/static/v1?message=HTML&logo=html5&labelColor=black&color=black&logoColor=orange&label=%20)](https://www.freecodecamp.org/certification/varunkmr19/responsive-web-design)
+[![CSS](https://img.shields.io/static/v1?message=CSS&logo=css3&labelColor=black&color=black&logoColor=blue&label=%20)](https://www.freecodecamp.org/certification/varunkmr19/responsive-web-design)
+[![Bootstrap](https://img.shields.io/static/v1?message=Bootstrap&logo=bootstrap&labelColor=black&color=black&logoColor=purple&label=%20)](https://www.freecodecamp.org/certification/varunkmr19/responsive-web-design)
+[![Django](https://img.shields.io/static/v1?message=Django&logo=django&labelColor=black&color=black&logoColor=green&label=%20)](https://github.com/varunkmr19)
+[![PostgreSQL](https://img.shields.io/static/v1?message=PostgreSQL&logo=postgresql&labelColor=black&color=black&logoColor=blue&label=%20)]()
+[![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)](https://docker.com)
+[![Git](https://img.shields.io/static/v1?message=Git&logo=git&labelColor=black&color=black&logoColor=f34f29&label=%20)
+]()
 
 <br />
 <br />
