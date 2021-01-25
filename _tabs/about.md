@@ -16,7 +16,7 @@ order: 4
 - 🥅 2021 Goals: Get a Job as a Back-End Developer.
 - ⚡ Fun fact: I love to workout and read.
 
-### Connect with me:
+## Connect with me:
 
 [<img align="left" alt="varunkumar.tech" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="TechLover | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
@@ -26,20 +26,38 @@ order: 4
 
 <br />
 
-### Languages and Tools:
+### Languages
 
-<img align="left" alt="HTML5" width="50px" src="http://varunkumar.tech/assets/logo/html.svg" />
-<img align="left" alt="CSS3" width="50px" src="http://varunkumar.tech/assets/logo/css.svg" />
-<img align="left" alt="BootStrap" width="50px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg" />
-<img align="left" alt="Python" width="50px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" />
-<img align="left" alt="Cpp" width="50px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" />
-<img align="left" height="50px" alt="Django" src="https://static.djangoproject.com/img/logos/django-logo-negative.svg" />
-<img align="left" height="50px" alt="PostgreSQL" src="https://commons.wikimedia.org/wiki/File:Postgresql_elephant.svg" />
-<img align="left" alt="Git" width="50px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" />
-<img align="left" alt="Terminal" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="Visual Studio Code" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+[![Python](https://img.shields.io/badge/-Python-000?&logo=python)](https://github.com/adamalston?tab=repositories&q=&type=&language=python)
+[![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)](https://github.com/varunkmr19?tab=repositories&q=&type=&language=cpp)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)](https://github.com/varunkmr19?tab=repositories&q=&type=&language=javascript)
+
+### Technologies
+
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=FF9900)
+![CI/CD](https://img.shields.io/badge/-CI%2FCD-000?&logo=CircleCI&logoColor=888)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 
 
+
+## Languages and Tools:
+
+<code><img align="left" alt="HTML5" height="50px" width="50px" src="http://varunkumar.tech/assets/img/logo/html.svg" /></code>
+<code><img align="left" alt="CSS3" height="50px" width="50px" src="http://varunkumar.tech/assets/img/logo/css.svg" /></code>
+<code><img align="left" alt="BootStrap" height="50px" width="50px" src="http://varunkumar.tech/assets/img/logo/bootstrap.svg" /></code>
+<code><img align="left" alt="Python" height="50px" width="50px" src="http://varunkumar.tech/assets/img/logo/python.svg" /></code>
+<code><img align="left" alt="Cpp" height="50px" width="50px" src="http://varunkumar.tech/assets/img/logo/cpp.svg" /></code>
+<code><img align="left" height="50px" width="50px" alt="Django" src="http://varunkumar.tech/assets/img/logo/django.svg" /></code>
+<code><img align="left" height="50px" width="50px" alt="PostgreSQL" src="http://varunkumar.tech/assets/img/logo/postgresql.svg" /></code>
+<code><img align="left" alt="Git" height="50px" src="http://varunkumar.tech/assets/img/logo/git.svg" /></code>
+<code><img align="left" alt="Docker" height="50px" width="50px" src="http://varunkumar.tech/assets/img/logo/docker.svg" /></code>
+<code><img align="left" alt="Visual Studio Code" height="50px" width="50px" src="http://varunkumar.tech/assets/img/logo/vscode.svg" /></code>
+<code><img align="left" alt="Ubuntu" height="50px" width="50px" src="http://varunkumar.tech/assets/img/logo/ubuntu.svg" /></code>
+
+<br />
+<br />
+
+<a href="http://www.varunkumar.tech/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=varunkmr19&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varunkmr19&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
 
 [website]: https://varunkumar.tech
 [twitter]: https://twitter.com/varunkmr19
